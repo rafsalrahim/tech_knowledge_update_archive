@@ -20,6 +20,7 @@ A repo for sharing knowledge about wast and brusting tech world. About new techn
 - https://www.python.org/jobs/
 
 # Contributing to Open Source
+- https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/
 - https://www.codetriage.com/
 - http://issuehub.pro/
 
