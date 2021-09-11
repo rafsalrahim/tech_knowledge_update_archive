@@ -24,3 +24,5 @@ A repo for sharing knowledge about wast and brusting tech world. About new techn
 - https://www.codetriage.com/
 - http://issuehub.pro/
 
+# Ethereum
+- Click here to go to [NFT](https://github.com/rafsalrahim/tech_knowledge_update_archive/blob/main/Ethereum/NFTProject.md)
