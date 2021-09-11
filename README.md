@@ -12,7 +12,7 @@ A repo for sharing knowledge about wast and brusting tech world. About new techn
 ### FastAPI
 - https://youtu.be/tLKKmouUams
 
-# Jobs 
+# Job Boards
 - https://larajobs.com/
 - http://hire.com
 - https://reddit.com/r/PythonJobs/
