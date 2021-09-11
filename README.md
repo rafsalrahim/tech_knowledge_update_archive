@@ -2,14 +2,14 @@
 A repo for sharing knowledge about wast and brusting tech world. About new technologies, new updates on existing one etc..
 
 # Tutorials
-## Django
+### Django
 - https://realpython.com/get-started-with-django-1/
 - https://www.youtube.com/watch?v=3XOS_UpJirU
 
-## CSS
+### CSS
 - https://laracasts.com/series/modern-css-for-backend-developers
 
-## FastAPI
+### FastAPI
 - https://youtu.be/tLKKmouUams
 
 # Jobs 
