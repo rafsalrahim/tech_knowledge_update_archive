@@ -20,9 +20,12 @@ A repo for sharing knowledge about wast and brusting tech world. About new techn
 - https://www.python.org/jobs/
 
 # Contributing to Open Source
-- https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/
+- [FreeCodeCamp guide to contributing to OpenSource](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/)
 - https://www.codetriage.com/
 - http://issuehub.pro/
 
 # Ethereum
 - Click here to go to [NFT](https://github.com/rafsalrahim/tech_knowledge_update_archive/blob/main/Ethereum/NFTProject.md)
+
+# Miscellaneous
+- [Awesome list of interesting stuff](https://github.com/sindresorhus/awesome)
