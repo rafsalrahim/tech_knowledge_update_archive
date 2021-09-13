@@ -3,14 +3,14 @@ A repo for sharing knowledge about wast and brusting tech world. About new techn
 
 # Tutorials
 ### Django
-- https://realpython.com/get-started-with-django-1/
-- https://www.youtube.com/watch?v=3XOS_UpJirU
+- [Build blog using Django](https://realpython.com/get-started-with-django-1/)
+- [Django Web Framework - Full Course for Beginners](https://www.youtube.com/watch?v=F5mRW0jo-U4)
 
 ### CSS
-- https://laracasts.com/series/modern-css-for-backend-developers
+- [CSS for backend developers](https://laracasts.com/series/modern-css-for-backend-developers)
 
 ### FastAPI
-- https://youtu.be/tLKKmouUams
+- [FastAPI - Course for beginners](https://youtu.be/tLKKmouUams)
 
 # Job Boards
 - https://larajobs.com/
